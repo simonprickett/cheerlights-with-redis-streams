@@ -12,7 +12,7 @@ last_id = redis_client.get("last_displayed_id")
 
 unicornhat.set_layout(unicornhat.AUTO)
 unicornhat.rotation(180)
-unicornhat.brightness(0.19)
+unicornhat.brightness(0.4)
 unicorn_width, unicorn_height = unicornhat.get_shape()
 unicornhat.off()
 
