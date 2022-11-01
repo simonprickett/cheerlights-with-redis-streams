@@ -1,0 +1,10 @@
+async-timeout==4.0.2
+Deprecated==1.2.13
+dotenv==0.0.5
+packaging==21.3
+pyparsing==3.0.9
+python-dotenv==0.21.0
+redis==4.3.4
+rpi-ws281x==4.3.4
+unicornhat==2.2.3
+wrapt==1.14.1
