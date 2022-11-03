@@ -1,5 +1,8 @@
 # Cheerlights with Redis Streams
 
+![Video Demo](cheerlights_screenshot.png)
+
+
 ## Overview
 
 This was a small project I made for a Redis live stream.  It uses the CheerLights MQTT server and a Redis Stream to control a Pimoroni Unicorn Hat LED light matrix attached to a Raspberry Pi.
